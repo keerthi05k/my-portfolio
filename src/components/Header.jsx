@@ -23,10 +23,10 @@ export const Header = () => {
 
       {/* Mobile Menu (toggle) */}
       {toggleMenu && (
-        <nav className="absolute top-full left-0 w-full bg-primary md:hidden z-40">
+        <nav className="absolute top-full left-0 w-full bg-secondary md:hidden z-40">
           <ul
             onClick={() => setToggleMenu(false)}
-            className="flex flex-col text-white items-center py-2"
+            className="flex flex-col text-white items-center py-2 mobile-nav "
           >
             <li><a href="/">Home</a></li>
             <li><a href="#about">About</a></li>

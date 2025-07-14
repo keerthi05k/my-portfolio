@@ -1,6 +1,6 @@
 import WebImg1 from "../assets/To-Do-App.png"
-import WebImg2 from "../assets/User-Card.png"
-import WebImg3 from "../assets/Weather-App.png"
+import WebImg2 from "../assets/Weather-App.png"
+import WebImg3 from "../assets/Bulk Mail.png"
 export const Projects = () => {
     return (
         <section id="projects" className="flex flex-col px-5 py-32 justify-center bg-primary text-white">
@@ -25,7 +25,7 @@ export const Projects = () => {
                     <div className="relative">
                         <img className="h-[200px] w-[500px]" src={WebImg2} alt="User-card" />
                         <div className="project-desc">
-                            <p className="text-center px-5 py-5">A Simple User Card Application Built with Front End Application</p>
+                            <p className="text-center px-5 py-5">A Weather Application Built with Front End Application</p>
                         </div>
                     </div>
                     </a>
@@ -33,7 +33,7 @@ export const Projects = () => {
                     <div className="relative">
                         <img className="h-[200px] w-[500px]" src={WebImg3} alt="Weather App" />
                         <div className="project-desc">
-                            <p className="text-center px-5 py-5">A Weather Application Built with Front End Application</p>
+                            <p className="text-center px-5 py-5">A Bulk Mail Application Built with Front End And Back End Application</p>
                         </div>
                     </div>
                     </a>

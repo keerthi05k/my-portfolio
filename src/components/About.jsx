@@ -2,9 +2,9 @@ import AboutImg from "../assets/About.png";
 
 export const About = () => {
     const config = {
-        line1 : "Hi! I'm Keerthana, a passionate Front-End Developer with expertise in building visually appealing and user-friendly web applications. I have a strong foundation in HTML, CSS, JavaScript and modern front-end frameworks like React.js",
-        line2 : "My primary focus is on crafting seamless user experiences by combining my technical skills with a keen eye for design. I excel at transforming ideas into functional, responsive, and efficient web solutions. Whether it's designing interactive user interfaces or implementing cutting-edge UI/UX features, I'm driven to create products that delight users.",
-        line3 : "Currently, I'm focused on honing my front-end development skills, staying up-to-date with the latest industry trends, and exploring new technologies to enhance my ability to build visually stunning and highly-performant web applications. I'm excited to contribute my front-end expertise to startup teams and tech-driven companies, where I can help drive innovation and deliver exceptional user experiences"
+        line1 : "Hi! I'm Keerthana, a passionate  Full Stack Developer (MERN) with a strong foundation in building visually appealing, user-friendly, and fully functional web applications. I specialize in HTML, CSS, JavaScript (ES6+), React.js, Node.js, Express.js, and MongoDB.",
+        line2 : "My primary focus is on crafting seamless user experiences and building scalable backend systems. I enjoy combining clean UI design with efficient server-side logic to bring complete solutions to life — from interactive frontends to robust APIs and database integrations.",
+        line3 : "I’m continuously exploring the latest tools and technologies in modern web development, enhancing my skills in REST APIs, Tailwind CSS, Git, and deployment platforms like Vercel and Render. Whether it’s designing responsive interfaces or implementing backend functionalities, I strive to create applications that are both performant and user-centric."
 
     }
     return (

@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 
 export const Hero = () => {
   const config = {
-     subtitle: "Junior FrontEnd Developer and Designer"
+     subtitle: "Full-Stack Developer and Designer"
   }
   return (
     <section id="hero" className="flex flex-col md:flex-row px-5 py-32 bg-primary justify-center">
